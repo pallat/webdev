@@ -1,0 +1,4 @@
+GET http://localhost:9999/users/1
+transaction-id: #####-#####
+Content-Type: application/json
+
